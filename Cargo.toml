@@ -1,0 +1,16 @@
+[package]
+name = "AdventOfCode2023"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[[bin]]
+name = "day1-a"
+path = "src/day1/part-a.rs"
+
+[[bin]]
+name = "day1-b"
+path = "src/day1/part-b.rs"
+
+[dependencies]
