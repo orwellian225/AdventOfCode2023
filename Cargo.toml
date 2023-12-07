@@ -50,4 +50,12 @@ path = "src/day5/part-a.rs"
 name = "day5-b"
 path = "src/day5/part-b.rs"
 
+[[bin]]
+name = "day6-a"
+path = "src/day6/part-a.rs"
+
+[[bin]]
+name = "day6-b"
+path = "src/day6/part-b.rs"
+
 [dependencies]
